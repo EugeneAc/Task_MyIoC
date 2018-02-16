@@ -1,2 +1,9 @@
 TestResults\
 .vs\
+
+.vs/MyIoC/v14/.suo
+.vs/MyIoC/v15/
+.suo
+*.ide
+*.dll
+*
